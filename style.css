@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    font-family: "secular one";
+    font-weight: 500;
+
+  }
+  
+  .logo {
+    max-width: 25x;
+    margin-top: 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    margin: 0.5em 0 0.2em;
+  }
+  
+  .tagline {
+    font-style: italic;
+    color: #ccc;
+    margin-bottom: 1em;
+  }
+  
+  .info p {
+    margin: 0.5em 0;
+    color: #808080
+    
+  }
+  
+  .actions {
+    margin: 2em 0;
+  }
+  
+  .btn {
+    background-color: #fbbf24;
+    color: #000;
+    text-decoration: none;
+    padding: 0.75em 1.5em;
+    margin: 0.5em;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: bold;
+  }
+  
+  .gallery {
+    padding: 2em;
+  }
+  
+  .gallery-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .gallery-grid img {
+    width: 150px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+  
+  .map {
+    padding: 2em;
+  }
+
+  body {
+    background-image: url('./imagem/funo.png');
+    background-size: cover;      /* cobre toda a tela */
+    background-repeat: no-repeat; /* não repete a imagem */
+    background-position: center; /* centraliza a imagem */
+  }
+  
+  
